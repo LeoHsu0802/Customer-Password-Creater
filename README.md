@@ -1,4 +1,4 @@
-# Customer-Password-Creater
+# Customer-Password-Creater(客戶電子交易密碼函生成器)
 For customer password creater (客戶密碼函陽春版)
 給券商或期貨商在客戶開戶後，發送電子交易密碼函
 
